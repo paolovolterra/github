@@ -11,5 +11,5 @@
 ![immagine](https://github.com/nrennie/30DayChartChallenge/raw/main/2022/viz/day_16.jpg?raw=true)
 ![immagine](https://github.com/nrennie/30DayChartChallenge/raw/main/2022/viz/day_20.png?raw=true)
 ![immagine](https://github.com/nrennie/30DayChartChallenge/raw/main/2022/viz/day_24.jpg?raw=true)
-![immagine]()
+![immagine](https://github.com/nrennie/30DayChartChallenge/raw/main/2022/viz/day_24.jpg?raw=true)
 ![immagine]()
